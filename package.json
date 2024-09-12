@@ -1,7 +1,7 @@
 {
-  "name": "l1-programming-start",
+  "name": "hello-world",
   "version": "1.0.0",
-  "description": "1DV610 - Assignment L1 - Start Programming Again",
+  "description": "Hello World!",
   "type": "module",
   "main": "src/app.js",
   "scripts": {
